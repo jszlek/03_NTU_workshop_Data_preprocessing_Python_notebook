@@ -1,3 +1,3 @@
 # 03_NTU_workshop_Data_wrangiling_Python_notebook
 
-If you wish to access the data set, please sign up at
+Please, be advised that the data set will be distributed at the workshop.
